@@ -1,4 +1,5 @@
-# FIGHT SHEETS
-Training/practice sheets for learning fighting games
+![header](http://machine9.net/stuff/FS-logo.jpg)
 
+A free practice sheet to put next to you when you practice your execution skills.
+Instructions are on the page itself.
 
