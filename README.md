@@ -19,7 +19,7 @@ It's easy!
 
 5. At the end of the week, it's time to add up the scores for each Set you've been practicing. You will find a points value under each box of the colour key. Add up the values for each exercise and write them in the "score" box on the right.
 
-6. Find the two HIGHEST score (these are the exercises you did the worst at) and write them under the "Focus sets" header on your next practice sheet. You will be practicing these two TWICE as much the next week!
+6. Find the two HIGHEST scores (these are the exercises you did the worst at) and write them under the "Focus sets" header on your next practice sheet. You will be practicing these two TWICE as much the next week!
 
 7. If you fill an entire exercise with "1 attempt" for a week (or if you're confident you've mastered it) you can drop the exercise and write a new one for yourself.
 
