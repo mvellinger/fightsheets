@@ -23,6 +23,11 @@ It's easy!
 
 7. If you fill an entire exercise with "1 attempt" for a week (or if you're confident you've mastered it) you can drop the exercise and write a new one for yourself.
 
+You'll end up with something like this:
+
+<p align="center">
+<img src ="http://machine9.net/stuff/FS-example.jpg">
+</p>
 
 # Is this not a lot of work?
 
